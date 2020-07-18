@@ -4,6 +4,7 @@ module.exports = {
     description: ``,
     author: `@jessicaeng17`,
   },
+  pathPrefix: "/elex-scopes",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
